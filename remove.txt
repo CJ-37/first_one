@@ -1,0 +1,2 @@
+this is a file to learn to remove a file from git.git diff
+line 2 direct commit
