@@ -1,0 +1,8 @@
+This is the first file. i'm going to commit it into git 
+and i'm very excited...
+
+i just commited my first git file. its amazing, and im gonna do this again with this modification
+
+This is new line for check diff option
+
+direct commit 
